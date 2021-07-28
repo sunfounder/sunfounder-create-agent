@@ -4,25 +4,23 @@ Windows
 1. Enter the corresponding ReadTheDocs tutorial address 
 in the browser to enter the tutorial page.
 
-.. image:: media/image1.png
-    :align: center
 
 2. Click \"Disconnected\".
 
 .. image:: media/image2.png
     :align: center
 
-3. Please download SunFounderCreateAgent for the first use, 
+3. Please download SunFounder Create Agent for the first use, 
 and download it by clicking \"Download the Agent\".
 
 .. image:: media/image3.png
     :align: center
 
-4. Open the downloaded SunFounderCreateAgent.exe file to install it.
+4. Install SunFounder-Create-Agent.exe 
 
-5. Click \"Install for me only\" to enter the selection of installation location.
+5. Select install mode.
 
-.. image:: media/image4.png
+.. image:: media/image99.png
     :align: center
 
 6. The installation location can choose to install the default location,
@@ -32,18 +30,19 @@ After the selection is complete, click \"Next\".
 .. image:: media/image5.png
     :align: center
 
-7. Choose to create a desktop shortcut and then click \"Next\".
+7. Choose whether to create a desktop shortcut according to your needs and 
+then click \"Next\".
 
-.. image:: media/image6.png
+.. image:: media/image100.png
     :align: center
 
-8. Click \"Install\" to install.
+8. Install.
 
 .. image:: media/image7.png
     :align: center
 
-9. After the installation is complete, 
-you can double-click the desktop icon to run SunFounderCreateAgent.
+9. The installation is complete. 
+After clicking "Finish", SunFounder Create Agent will run automatically.
 
 .. image:: media/image8.png
     :align: center

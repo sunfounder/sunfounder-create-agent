@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-SunfounderCreateAgent
+Sunfounder Create Agent
 ===================================================
 
 
@@ -11,6 +11,6 @@ SunfounderCreateAgent
 .. toctree::
    :maxdepth: 2
    
-   sunfoundercreateagent
+   sunfounder_create_agent
    quick_user_tutorial
    faq

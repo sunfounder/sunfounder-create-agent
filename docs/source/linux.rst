@@ -12,7 +12,7 @@ in the browser to enter the tutorial page.
 .. image:: media/image19.png
 
 
-3. Please download SunFounderCreateAgent for the first use, 
+3. Please download SunFounder Create Agent for the first use, 
 and download it by clicking \"Download the Agent\".
 
 .. image:: media/image20.png
@@ -41,13 +41,13 @@ Waiting for installation.
 
 The installation is successful when the installation popup disappears!
 
-5. Run SunFounderCreateAgent: Click \"Accessories\" in the Raspberry Pi menu and select Sunfounder
+5. Run SunFounder Create Agent: Click \"Accessories\" in the Raspberry Pi menu and select Sunfounder
 Create Agent to run the software.
 
 .. image:: media/image25.png
     :align: center
 
-After running, a Note prompt box will pop up, and a small SunFounderCreateAgent icon will appear in the taskbar.
+After running, a Note prompt box will pop up, and a small SunFounder Create Agent icon will appear in the taskbar.
 
 .. image:: media/image26.png
     :align: center
@@ -55,7 +55,7 @@ After running, a Note prompt box will pop up, and a small SunFounderCreateAgent 
 .. image:: media/image27.png
     :align: center
 
-6. Exit SunFounderCreateAgent: Click the small SunFounderCreateAgent icon 
+6. Exit SunFounder Create Agent: Click the small SunFounder Create Agent icon 
 in the taskbar of the Raspberry Pi and select \"Quit\" to exit.
 
 .. image:: media/image28.png

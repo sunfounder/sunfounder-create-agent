@@ -2,8 +2,8 @@ FAQ
 =============
 
 
-1. If you run the code without opening SunFounderCreateAgent, 
-a connection failure prompt will pop up. After reopening SunFounderCreateAgent, 
+1. If you run the code without opening SunFounder Create Agent, 
+a connection failure prompt will pop up. After reopening SunFounder Create Agent, 
 click \"Try again\" to reconnect.
 
 .. image:: media/image39.png

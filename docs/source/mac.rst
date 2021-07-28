@@ -12,7 +12,7 @@ the tutorial page (the Safari browser is not currently supported).
 .. image:: media/image10.png
     :align: center
 
-3. Please download SunFounderCreateAgent for the first use, 
+3. Please download SunFounder Create Agent for the first use, 
 and download it by clicking \"Download the Agent\".
 
 .. image:: media/image11.png
@@ -24,7 +24,7 @@ SunFounder-Create-Agent-darwin-v1.0.0.dmg to install it.
 .. image:: media/image12.png
     :align: center
 
-5. Place the SunFounderCreateAgent icon on the Applications icon, that is, 
+5. Place the SunFounder Create Agent icon on the Applications icon, that is, 
 add SunFounder Create Agent to Applications.
 
 .. image:: media/image13.png
