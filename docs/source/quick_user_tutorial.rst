@@ -8,25 +8,28 @@ Connect Raspberry Pi
 
 .. image:: media/image101.png
     :align: center
+
+2. SunFounder Create Agent connects to Raspberry Pi: Open the ReadTheDoc tutorial webpage, Click \"Disconnected\".
+    
+.. image:: media/image2.png
+        :align: center
    
-2. SunFounder Create Agent connects to Raspberry Pi: Open the ReadTheDoc tutorial webpage, 
-click \"I have open the Agent\".
+3. click \"I have open the Agent\".
 
 .. image:: media/image31.png
     :align: center
 
-3. Click \"OK\".
+4. Click \"OK\".
 
 .. image:: media/image32.png
     :align: center
 
-4. Enter the Raspberry Pi IP, username and password on the Connect to Raspberry Pi interface, 
-and click \"connect\"(please enter \"127.0.0.1\" for the Raspberry Pi system connection IP).
+5. Enter the Raspberry Pi IP, username and password on the Connect to Raspberry Pi interface, and click \"connect\"(please enter \"127.0.0.1\" for the Raspberry Pi system connection IP).
 
 .. image:: media/image33.png
     :align: center
 
-5. Connection succeeded.
+6. Connection succeeded.
 
 .. image:: media/image34.png
     :align: center
