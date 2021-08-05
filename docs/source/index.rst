@@ -1,16 +1,19 @@
-.. sunfounder-create-agent documentation master file, created by
-   sphinx-quickstart on Tue Jul 27 17:29:21 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Sunfounder Create Agent
 ===================================================
+
+SunFounder Create Agent is a simple application that helps connect SunFounder Online Tutorial to your Raspberry Pi!
+
+The Agent opens a local websocket service, allows Online Tutorial to connect, and connects to the Raspberry Pi via SSH, so that you can establish a connection between Online Tutorial and the Raspberry Pi.
+
+With the **Run** button of the Online Tutorial, you can run the commands and code directly.
 
 
 
 .. toctree::
    :maxdepth: 2
    
-   sunfounder_create_agent
-   quick_user_tutorial
+   download_and_install
+   run_or_quit
+   quick_user_guide
    faq
