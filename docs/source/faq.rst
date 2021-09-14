@@ -1,6 +1,12 @@
 FAQ 
 =============
 
+What kind of operating systems does Agent support?
+------------------------------------------------------
+
+Currently Agent supports **Win10**, **macOS Big Sur 11.5**, **Raspberry Pi OS Buster** and above.
+
+
 Agent installation failed?
 ------------------------------------
 
